@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/muzammil909900/EGG-PET-METHOD/refs/heads/main/e000dcbd121c14d805b7c7689d79e8cd.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/muzammil909900/UpdatedScript/refs/heads/main/86b6d6f92d02479a59d8f680480b5ad7.txt"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
